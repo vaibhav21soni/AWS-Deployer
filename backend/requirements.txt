@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+paramiko
+pydantic
+python-multipart
+apscheduler
+python-dotenv
